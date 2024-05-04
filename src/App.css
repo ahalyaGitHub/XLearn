@@ -8,4 +8,8 @@
 .text {
     font-family: 'Beth Ellen', sans-serif;
 }
-
+.btn {
+    margin-left: 35%;
+    padding: 1% 5%;
+    margin-top: 10%;
+}
