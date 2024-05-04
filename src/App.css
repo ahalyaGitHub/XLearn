@@ -4,12 +4,16 @@
     margin: 0;
     padding: 0;
 }
-
-.text {
-    font-family: 'Beth Ellen', sans-serif;
-}
 .btn {
-    margin-left: 35%;
     padding: 1% 5%;
-    margin-top: 10%;
+    margin-right: 20%;
+}
+.t {
+    font-family: "Inconsolata", monospace;
+    padding-right: 70%;
+    padding-bottom: 11%;
+} 
+.text {
+    font-family: "Inconsolata", monospace;
+    margin-right: 10%;
 }
